@@ -1,0 +1,6 @@
+@ProgramacionIVFinal__HostAddress = http://localhost:5217
+
+GET {{ProgramacionIVFinal__HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
